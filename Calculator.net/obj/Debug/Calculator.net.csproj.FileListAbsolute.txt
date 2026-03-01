@@ -1,0 +1,11 @@
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\bin\Debug\Calculator.net.exe.config
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\bin\Debug\Calculator.net.exe
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\bin\Debug\Calculator.net.pdb
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.csproj.AssemblyReference.cache
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.Form1.resources
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.Properties.Resources.resources
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.csproj.GenerateResource.cache
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.csproj.CoreCompileInputs.cache
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.exe
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.pdb
+E:\Marwan\My projects\c++\Github\Calculator\Calculator.net\obj\Debug\Calculator.net.exe.config
